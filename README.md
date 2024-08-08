@@ -4,5 +4,7 @@
 
 * zustang for the state management 
 * magic UI
-* appWrite
+* certinity UI
+* appwrite SDK
+
 
